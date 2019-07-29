@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_input">Логин</string>
+    <string name="password_input">Пароль</string>
+    <string name="auth_submit">Вход</string>
+</resources>
